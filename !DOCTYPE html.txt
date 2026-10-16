@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Blog</title>
+</head>
+<body>
+    <h1>خوش آمدید! میرا بلاگ بن رہا ہے۔</h1>
+    <p>یہ میری بلاگ ویب سائٹ کا پہلا صفحہ ہے۔</p>
+</body>
+</html>
